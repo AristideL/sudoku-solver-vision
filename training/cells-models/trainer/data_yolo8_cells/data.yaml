@@ -1,0 +1,8 @@
+path: /training/cells-models/trainer/data_yolo8_cells
+train: images/train
+val: images/val
+
+names:
+  0: cells
+  1: emptycells
+  2: numbercells

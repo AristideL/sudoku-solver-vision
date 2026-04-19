@@ -1,0 +1,7 @@
+path: /training/gamezone-models/trainer/data_yolo8_cells
+train: images/train
+val: images/val
+
+names:
+  0: sudoku
+  1: gameZone
